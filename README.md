@@ -1,6 +1,5 @@
-# LAB-calculator-extra-practice
-
 # LAB - Calculator
+https://davidpoole-calculator-v2.netlify.app/
 
 We are focusing this lesson on creating the HTML and CSS for the caclulator. Our goal is to create a calculator that looks exactly like [this wireframe](https://www.figma.com/file/bDJ80t9dmmcW88f7Mqv2FL/Wireframe?node-id=0%3A1) 
 
